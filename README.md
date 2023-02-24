@@ -1,7 +1,7 @@
 # household_power_consumption
 A python project that helps you optimize your power consumption based on statistics of your home and variable electricity rates.
 
-Developed by: Sajal Suhane
+Developed by: Kabir Mehra
 
 The model in householdPower.py works on ARIMA forecasting (AutoRegression Integrated Moving Average).
 
